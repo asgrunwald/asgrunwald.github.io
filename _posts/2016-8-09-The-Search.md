@@ -3,8 +3,6 @@ layout: post
 title: Apartment Hunting in NYC
 ---
 
-
-
 We've all been there, on the search for the best, whether it be for a certain product or maybe even a job or partner. The search can be endless leading from one thing to the next, tirelessly gathering data and trying to make the best decision. There's a quote from Steve Jobs,  
 
 <p class='center-text quote' markdown='1'>
@@ -53,7 +51,6 @@ It is also very interesting to note the trend across years. For the few years af
 The only thing now to be weary of is how the cycle seems to be turning, which could have some interesting implications for the future.
 
 Please feel free to check out my CartoDB map below and play around with my model [here](http://stark-chamber-51964.herokuapp.com).  
-
 
 <iframe id='my_map' width="100%" height="520" frameborder="0" src="https://asgrunwald.carto.com/viz/4df7beb6-59ae-11e6-aa90-0e05a8b3e3d7/embed_map"
         allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
