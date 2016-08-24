@@ -1,6 +1,36 @@
 ---
 ---
 
+/****************/
+/* MY ADDITIONS */
+/****************/
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.center-text
+{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.caption {
+    padding: 10px;
+    font-size: 80%;
+}
+
+.notes {
+  display: none;
+}
+
+.quote {
+  margin: 0 15% 4% 15%;
+}
+
+
 //
 // IMPORTS
 //
@@ -25,7 +55,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 850px;
   padding: 0 10px;
   width: 100%;
 }
@@ -287,12 +317,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-/****************/
-/* MY ADDITIONS */
-/****************/
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-}
