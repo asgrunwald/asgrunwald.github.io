@@ -54,6 +54,7 @@ The only thing now to be weary of is how the cycle seems to be turning, which co
 
 Please feel free to check out my CartoDB map below and play around with my model [here](http://stark-chamber-51964.herokuapp.com).  
 
+
 <iframe id='my_map' width="100%" height="520" frameborder="0" src="https://asgrunwald.carto.com/viz/4df7beb6-59ae-11e6-aa90-0e05a8b3e3d7/embed_map"
         allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
 </iframe>
